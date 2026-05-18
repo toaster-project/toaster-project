@@ -1,12 +1,20 @@
-- Hi, I’m @toaster-project. I am the Lead Developer for Laceskinscence Face and Body Care during our Capstone 2 Project.
-- Currently, I am graduating expected by July 2026. I study Information Technology.
-- Most of my experiences in Programming are from the courses provided by my school.
-- I have recently worked as a Software Developer Intern, with a tech stack of Laravel and MySQL.
-- I play rhythm games too. You can find me in Arcades playing Maimai, Chunithm, or Sound Voltex. If not, I play mobile and desktop too.
-- I want to learn more programming languages as I progress my career in the industry.
-- I can be contacted through X (Formerly Twitter) and Facebook! Links are in my profile.
-
-SIDE NOTE: I am also improving my portfolio, if you currently access my page, it'll only be an introduction.
+<div align="center">
+<img src="" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I+am+toaster-project.;Rhythm+gamer+and+programmer." width="70%" />
+<br><br>
+<pre>
+    💻 BSIT @ STI College • Full-Stack Dev • Web Developer
+    🎓 Expected July 2026
+    📖 Software architecture • Distributed systems
+    🎮 Music • Rhythm Games • Anime • Code
+    SIDE NOTE: I am also improving my portfolio, if you currently access my page, it'll only be an introduction.
+</pre>
+<br>
+<img src="" height="40" />
+<br><br>
+    
+[![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/michael-angelo-feliciano/)
+</div>
 
 <!---
 toaster-project/toaster-project is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
