@@ -7,13 +7,13 @@
     🎓 Expected July 2026
     📖 Software architecture • Distributed systems
     🎮 Music • Rhythm Games • Anime • Code
-    SIDE NOTE: I am also improving my portfolio, if you currently access my page, it'll only be an introduction.
 </pre>
 <br>
-<img src="" height="40" />
+<img src="assets/spe1.gif" height="40" />
 <br><br>
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/michael-angelo-feliciano/)
+<p>SIDE NOTE: I am also improving my portfolio, if you currently access my page, it'll only be an introduction.</p>
 </div>
 
 <!---
