@@ -6,7 +6,7 @@
     💻 BSIT @ STI College • Full-Stack Dev • Web Developer
     🎓 Expected July 2026
     📖 PHP/Laravel Programming • C# Programming
-    🎮 Music • Rhythm Gamer • Anime
+    🎮 J-Pop and J-Rock / Music • Rhythm Gamer • Anime • Tachyon's Guinea Pig
 </pre>
 <br>
 <img src="assets/spe1.gif" height="40" />
