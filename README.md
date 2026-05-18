@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/toaster-project/toaster-project/tree/main/assets/tachyon1.jpg" width="25%" align="right" />
+<img src="assets/tachyon1.jpg" width="25%" align="right" />
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+I+am+toaster-project.;Rhythm+gamer+and+programmer." width="70%" />
 <br><br>
 <pre>
