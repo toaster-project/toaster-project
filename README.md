@@ -5,8 +5,8 @@
 <pre>
     💻 BSIT @ STI College • Full-Stack Dev • Web Developer
     🎓 Expected July 2026
-    📖 Software architecture • Distributed systems
-    🎮 Music • Rhythm Games • Anime • Code
+    📖 PHP/Laravel Programming • C# Programming
+    🎮 Music • Rhythm Gamer • Anime
 </pre>
 <br>
 <img src="assets/spe1.gif" height="40" />
