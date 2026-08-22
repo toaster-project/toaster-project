@@ -4,8 +4,8 @@
 <br><br>
 <pre>
     💻 BSIT @ STI College • Full-Stack Dev • Web Developer
-    🎓 Expected July 2026
-    📖 PHP/Laravel Programming • C# Programming
+    🎓 Batch of 2026
+    📖 PHP/Laravel • C# • PostgreSQL • Java/Grails
     🎮 J-Pop and J-Rock / Music • Rhythm Gamer • Anime • Tachyon's Guinea Pig
 </pre>
 <br>
